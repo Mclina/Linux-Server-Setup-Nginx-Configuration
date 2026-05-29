@@ -29,7 +29,7 @@ Nginx is configured to serve a JSON response at the `/api` endpoint.
   {
     "message": "HNGI14 Stage 0",
     "track": "DevOps",
-    "username": "mariacelin oshiomah"
+    "username": "mariacelin"
   }
 4. SSL/TLS Encryption
 The site is secured using Certbot and Let's Encrypt.
